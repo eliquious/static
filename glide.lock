@@ -1,0 +1,28 @@
+hash: ec68e07e56c905fa6673993878ffaa4d463c9996439679a14b41d9f672978217
+updated: 2017-02-23T02:30:32.952589824-06:00
+imports:
+- name: github.com/eliquious/xrouter
+  version: 54e6ec43ddcab2377e01cc8c3a9ad128c5e11b36
+- name: github.com/jteeuwen/go-bindata
+  version: a0ff2567cfb70903282db057e799fd826784d41d
+- name: github.com/julienschmidt/httprouter
+  version: 4563b0ba73e4db6c6423b60a26f3cadd2e9a1ec9
+- name: github.com/justinas/alice
+  version: 1051eaf52fcafdd87ead59d28b065f1fcb8274ec
+- name: github.com/rs/xhandler
+  version: ed27b6fd65218132ee50cd95f38474a3d8a2cd12
+- name: github.com/rs/xid
+  version: 057f3c928c207d1e7e318929eeac93bb46e319e3
+- name: github.com/rs/xlog
+  version: 65f56f4e59a609f0ab40ebc3251b19402668470a
+  subpackages:
+  - internal/term
+- name: github.com/skratchdot/open-golang
+  version: 75fb7ed4208cf72d323d7d02fd1a5964a7a9073c
+  subpackages:
+  - open
+- name: golang.org/x/net
+  version: 07b51741c1d6423d4a6abab1c49940ec09cb1aaf
+  subpackages:
+  - context
+testImports: []
